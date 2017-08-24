@@ -2,7 +2,8 @@
   "name": "express-locallibrary-tutorial",
   "version": "0.0.0",
   "engines": {
-    "node": "8.2.0"
+    "node": "8.2.0",
+	"npm": "5.3.0"
   },
   "private": true,
   "scripts": {
